@@ -1,0 +1,803 @@
+{
+    "version": "0.4",
+    "title": "Header",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-header",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "7f14c30f",
+            "settings": {
+                "structure": "20",
+                "border_width": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "1",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "border_color": "#DDDDDD42",
+                "content_position": "middle",
+                "z_index": 2,
+                "background_background": "gradient",
+                "__globals__": {
+                    "background_color": "",
+                    "background_color_b": "globals\/colors?id=accent"
+                },
+                "hide_tablet": "hidden-tablet",
+                "hide_mobile": "hidden-phone",
+                "content_width": {
+                    "unit": "px",
+                    "size": 1170,
+                    "sizes": []
+                },
+                "ekit_has_onepagescroll": "",
+                "ekit_has_onepagescroll_dot": "yes",
+                "ekit_onepagescroll_tooltip_text": "",
+                "ekit_control_get_pro": "1",
+                "background_color": "#0F0F0F",
+                "background_color_stop": {
+                    "unit": "%",
+                    "size": 64,
+                    "sizes": []
+                },
+                "background_color_b_stop": {
+                    "unit": "%",
+                    "size": 40,
+                    "sizes": []
+                },
+                "background_gradient_angle": {
+                    "unit": "deg",
+                    "size": 50,
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "62eb51c0",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "1c935ca3",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "support@domain.com",
+                                        "selected_icon": {
+                                            "value": "fas fa-envelope",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "cb952d6"
+                                    },
+                                    {
+                                        "text": "Jl. Sunset Road No.815, Kuta",
+                                        "selected_icon": {
+                                            "value": "fas fa-map-marker-alt",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "29ba29e"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "text_indent": {
+                                    "unit": "px",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "icon_color": "globals\/colors?id=accent",
+                                    "text_color": "globals\/colors?id=e8dc402",
+                                    "icon_typography_typography": "globals\/typography?id=f882794"
+                                },
+                                "divider": "yes",
+                                "divider_color": "#3E3E3E"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "60c5146c",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "216ef5bc",
+                            "settings": {
+                                "social_icon_list": [
+                                    {
+                                        "social_icon": {
+                                            "value": "jki jki-facebook-light",
+                                            "library": "jkiticon"
+                                        },
+                                        "_id": "03903b1"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "jki jki-twitter-light",
+                                            "library": "jkiticon"
+                                        },
+                                        "_id": "e7a79ae"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "jki jki-instagram-1-light",
+                                            "library": "jkiticon"
+                                        },
+                                        "_id": "0fa537d"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "jki jki-linkedin-light",
+                                            "library": "jkiticon"
+                                        },
+                                        "_id": "123eb88"
+                                    }
+                                ],
+                                "shape": "circle",
+                                "align": "right",
+                                "icon_color": "custom",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "icon_padding": {
+                                    "unit": "em",
+                                    "size": 0.7,
+                                    "sizes": []
+                                },
+                                "icon_spacing": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "icon_primary_color": "globals\/colors?id=06a34e7",
+                                    "hover_secondary_color": "globals\/colors?id=accent",
+                                    "icon_secondary_color": "globals\/colors?id=accent"
+                                },
+                                "hover_primary_color": "#FFFFFF"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "social-icons",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "3a829ef5",
+            "settings": {
+                "structure": "30",
+                "background_background": "classic",
+                "box_shadow_box_shadow_type": "yes",
+                "box_shadow_box_shadow": {
+                    "horizontal": 0,
+                    "vertical": 2,
+                    "blur": 5,
+                    "spread": 0,
+                    "color": "rgba(0, 0, 0, 0.15)"
+                },
+                "content_position": "middle",
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "",
+                    "right": 0,
+                    "bottom": "",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "10",
+                    "right": "10",
+                    "bottom": "10",
+                    "left": "10",
+                    "isLinked": false
+                },
+                "z_index": 2,
+                "content_width": {
+                    "unit": "px",
+                    "size": 1170,
+                    "sizes": []
+                },
+                "ekit_has_onepagescroll": "",
+                "ekit_has_onepagescroll_dot": "yes",
+                "ekit_onepagescroll_tooltip_text": "",
+                "ekit_control_get_pro": "1"
+            },
+            "elements": [
+                {
+                    "id": "4bec0578",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 16,
+                        "_inline_size_tablet": 100,
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "border_width_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "1",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "border_color": "#DDDDDD42",
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "0",
+                            "bottom": "20",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size_mobile": 50,
+                        "border_width_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "0",
+                            "bottom": "15",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "2875bca6",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/templatekit.jegtheme.com\/techtial\/wp-content\/uploads\/sites\/209\/2021\/11\/logo-1.png",
+                                    "id": 438,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "align_mobile": "left",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": 85,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "1520f7b6",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 60.987,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size_tablet": 70,
+                        "_inline_size_mobile": 50,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "5",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "0",
+                            "bottom": "15",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "109bf3a6",
+                            "settings": {
+                                "sg_menu_choose": "menu",
+                                "sg_menu_alignment_responsive": "center",
+                                "sg_mobile_menu_logo": {
+                                    "id": 438,
+                                    "url": "https:\/\/templatekit.jegtheme.com\/techtial\/wp-content\/uploads\/sites\/209\/2021\/11\/logo-1.png",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "sg_mobile_menu_logo_size_imagesize_size": "full",
+                                "sg_mobile_menu_icon": {
+                                    "value": "jki jki-bars-solid",
+                                    "library": "jkiticon"
+                                },
+                                "st_menu_wrapper_height_responsive": {
+                                    "unit": "px",
+                                    "size": 84,
+                                    "sizes": []
+                                },
+                                "st_menu_wrapper_padding_responsive": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "st_menu_wrapper_padding_responsive_tablet": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "0",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "st_menu_wrapper_margin_responsive": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "st_menu_wrapper_margin_responsive_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "st_menu_wrapper_border_radius_responsive": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "st_menu_item_spacing_responsive": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "18",
+                                    "bottom": "0",
+                                    "left": "18",
+                                    "isLinked": false
+                                },
+                                "st_menu_item_spacing_responsive_tablet": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "20",
+                                    "bottom": "15",
+                                    "left": "10",
+                                    "isLinked": false
+                                },
+                                "st_submenu_item_indicator": {
+                                    "value": "jki jki-chevron-down-light",
+                                    "library": "jkiticon"
+                                },
+                                "st_submenu_item_indicator_margin_responsive": {
+                                    "unit": "px",
+                                    "top": "3",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "10",
+                                    "isLinked": false
+                                },
+                                "st_submenu_item_indicator_border_border_width_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "st_submenu_panel_padding_responsive": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "st_submenu_panel_padding_responsive_tablet": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "5",
+                                    "isLinked": false
+                                },
+                                "st_submenu_panel_background_background_background": "classic",
+                                "st_submenu_panel_border_radius_responsive": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "st_submenu_panel_border_radius_responsive_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "st_hamburger_menu_position_responsive_tablet": "left",
+                                "st_hamburger_menu_icon_background_background_background": "classic",
+                                "st_hamburger_menu_icon_background_background_color": "#FFFFFF00",
+                                "st_hamburger_menu_icon_border_border_border": "solid",
+                                "st_hamburger_menu_icon_border_border_width_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "st_hamburger_menu_close_background_background_background": "classic",
+                                "st_hamburger_menu_close_border_border_border": "solid",
+                                "st_hamburger_menu_close_border_border_width_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "st_menu_item_typography_content_typography_typography": "globals\/typography?id=eef9e43",
+                                    "st_menu_item_text_normal_color_responsive": "globals\/colors?id=primary",
+                                    "st_menu_item_text_hover_color_responsive": "globals\/colors?id=accent",
+                                    "st_menu_item_text_active_color_responsive": "globals\/colors?id=accent",
+                                    "st_submenu_item_indicator_color_responsive": "",
+                                    "st_submenu_panel_background_background_color": "",
+                                    "st_submenu_item_text_normal_color_responsive": "globals\/colors?id=primary",
+                                    "st_submenu_item_text_hover_color_responsive": "globals\/colors?id=accent",
+                                    "st_submenu_item_text_active_color_responsive": "globals\/colors?id=accent",
+                                    "st_submenu_item_typography_content_typography_typography": "globals\/typography?id=eef9e43",
+                                    "st_menu_wrapper_mobile_color_tablet_responsive_tablet": "",
+                                    "st_menu_item_text_normal_color_responsive_tablet": "globals\/colors?id=primary",
+                                    "st_menu_item_text_hover_color_responsive_tablet": "globals\/colors?id=secondary",
+                                    "st_menu_item_text_active_color_responsive_tablet": "globals\/colors?id=secondary",
+                                    "st_submenu_item_indicator_color_responsive_tablet": "",
+                                    "st_hamburger_menu_icon_color_responsive_tablet": "globals\/colors?id=secondary",
+                                    "st_hamburger_menu_icon_color_hover_responsive_tablet": "",
+                                    "st_hamburger_menu_close_color_responsive_tablet": "",
+                                    "st_hamburger_menu_close_color_hover_responsive_tablet": "",
+                                    "st_menu_wrapper_background_background_color": "",
+                                    "st_hamburger_menu_close_background_background_color": "globals\/colors?id=secondary",
+                                    "st_hamburger_menu_icon_color_responsive_mobile": "globals\/colors?id=secondary",
+                                    "st_hamburger_menu_close_background_hover_background_color": "globals\/colors?id=primary"
+                                },
+                                "st_submenu_panel_box_shadow_box_shadow_box_shadow_type": "yes",
+                                "st_submenu_panel_box_shadow_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 3,
+                                    "blur": 15,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.1)"
+                                },
+                                "st_submenu_item_indicator_border_radius_responsive_tablet": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "st_submenu_item_indicator_border_border_border": "solid",
+                                "st_submenu_item_indicator_border_border_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "st_submenu_panel_background_background_color": "#FFFFFF",
+                                "st_hamburger_menu_icon_border_radius_responsive_tablet": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "st_hamburger_menu_icon_padding_responsive_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "st_hamburger_menu_close_border_radius_responsive_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "st_hamburger_menu_close_color_responsive_tablet": "#FFFFFF",
+                                "st_hamburger_menu_close_margin_responsive_tablet": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "20",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "st_hamburger_menu_width_responsive_tablet": {
+                                    "unit": "px",
+                                    "size": 22,
+                                    "sizes": []
+                                },
+                                "st_hamburger_menu_icon_size_responsive_tablet": {
+                                    "unit": "px",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "st_menu_item_text_normal_color_responsive_tablet": "#6EC1E4",
+                                "st_menu_item_text_hover_color_responsive_tablet": "#54595F",
+                                "st_menu_item_text_active_color_responsive_tablet": "#54595F",
+                                "st_hamburger_menu_icon_color_responsive_tablet": "#54595F",
+                                "st_hamburger_menu_close_background_background_color": "#54595F",
+                                "st_menu_wrapper_mobile_color_tablet_responsive_tablet": "#F6F6F6",
+                                "st_hamburger_menu_icon_color_responsive_mobile": "#54595F",
+                                "st_hamburger_menu_position_responsive_mobile": "right",
+                                "_z_index": 2,
+                                "st_mobile_menu_margin_responsive_tablet": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "st_hamburger_menu_close_background_hover_background_background": "classic"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "jkit_nav_menu",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "49a3398",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 22.677,
+                        "background_background": "classic",
+                        "__globals__": {
+                            "background_color": "",
+                            "border_color": ""
+                        },
+                        "border_width": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "1",
+                            "isLinked": false
+                        },
+                        "border_color": "#F0F0F0",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        },
+                        "_inline_size_tablet": 30,
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "0",
+                            "bottom": "10",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "border_width_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "_inline_size_mobile": 50,
+                        "hide_mobile": "hidden-phone",
+                        "align_tablet": "flex-end",
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "5",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "align": "flex-end",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "20",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "6faecfa2",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "fas fa-phone-alt",
+                                    "library": "fa-solid"
+                                },
+                                "title_text": "Start Consultation",
+                                "description_text": "(+62)81 471 5682\n",
+                                "position": "left",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 22,
+                                    "sizes": []
+                                },
+                                "text_align": "left",
+                                "content_vertical_alignment": "middle",
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary",
+                                    "description_color": "globals\/colors?id=text",
+                                    "primary_color": "globals\/colors?id=06a34e7",
+                                    "description_typography_typography": "globals\/typography?id=text",
+                                    "title_typography_typography": "globals\/typography?id=5ad446d",
+                                    "secondary_color": "globals\/colors?id=accent"
+                                },
+                                "primary_color": "#FFD500",
+                                "text_align_tablet": "left",
+                                "icon_space_mobile": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "icon_size_mobile": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "text_align_mobile": "center",
+                                "_element_custom_width_mobile": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "10",
+                                    "isLinked": false
+                                },
+                                "_element_width": "auto",
+                                "description_color": "#6C7084",
+                                "view": "framed",
+                                "icon_padding": {
+                                    "unit": "px",
+                                    "size": 11,
+                                    "sizes": []
+                                },
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}
